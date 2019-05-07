@@ -1,0 +1,10 @@
+h1{color: white; font-family: cursive}
+body{background-color:antiquewhite; font-family: sans-serif}
+article{border-width:medium;border-color: darkblue; border-style:solid; margin-right:160px;background-color:beige; padding: 0px 10px;color: darkblue}
+aside{height: 100%;
+    width: 160px;
+    position: fixed;
+    z-index: 1;
+    right: 0;}
+    hr{margin-right:160px;}   
+header{background-image: url("backdrop.png");color: white}
